@@ -221,8 +221,9 @@ $$
 Pour les particules de type A: 
 
 $$
-E_{AA}^{moy} = \frac{2}{N_A} \sum_{i<j}^{A} U_{ij}
+E_{AA}^{\mathrm{moy}} = \frac{2}{N_A} \sum_{i<j} U_{ij}
 $$
+
 
 ---
 
