@@ -90,10 +90,7 @@ $$
 Dans le cas du potentiel de Lennard-Jones :
 
 $$
-\vec{F}_{ij} =
-24\varepsilon \left[ 2\left(\frac{r^\*}{r}\right)^{12}
-- \left(\frac{r^\*}{r}\right)^6 \right]
-\frac{\vec{r}_{ij}}{r^2}
+\vec{F}_{ij} = 24\varepsilon \left[ 2\left(\frac{r^\*}{r}\right)^{12} - \left(\frac{r^\*}{r}\right)^6 \right] \frac{\vec{r}_{ij}}{r^2}
 $$
 
 ---
@@ -224,8 +221,7 @@ $$
 Pour les particules de type A :
 
 $$
-E_{AA}^{moy} = \frac{2}{N_A}
-\sum_{i<j}^{A} U_{ij}
+E_{AA}^{moy} = \frac{2}{N_A} \sum_{i<j}^{A} U_{ij}
 $$
 
 ---
@@ -301,4 +297,3 @@ Le programme demande :
 Ce projet constitue une implémentation rigoureuse et complète d’une dynamique moléculaire classique.
 Il met en œuvre les équations fondamentales de la mécanique statistique, un schéma d’intégration robuste, un contrôle thermique maîtrisé et un calcul parallèle efficace, fournissant ainsi une base solide pour l’étude numérique de systèmes particulaires et le développement de simulations plus avancées.
 
-```
