@@ -221,7 +221,7 @@ $$
 Pour les particules de type A: 
 
 $$
-E_{AA}^{\mathrm{moy}} = 
+E_{AA}^{\mathrm{moy}} = \frac{2}{N_A} 
 $$
 
 
