@@ -1,4 +1,4 @@
-```markdown
+
 # Simulation de Dynamique Moléculaire Lennard-Jones (A/B)
 
 ## 1. Présentation générale
@@ -301,5 +301,4 @@ Le programme demande :
 Ce projet constitue une implémentation rigoureuse et complète d’une dynamique moléculaire classique.
 Il met en œuvre les équations fondamentales de la mécanique statistique, un schéma d’intégration robuste, un contrôle thermique maîtrisé et un calcul parallèle efficace, fournissant ainsi une base solide pour l’étude numérique de systèmes particulaires et le développement de simulations plus avancées.
 
-```
 ```
